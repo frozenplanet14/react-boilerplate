@@ -11,5 +11,13 @@
     "boilerplate"
   ],
   "author": "Suman Jha",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frozenplanet14/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frozenplanet14/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/frozenplanet14/react-boilerplate#readme"
 }
